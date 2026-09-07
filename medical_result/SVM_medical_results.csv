@@ -1,0 +1,2 @@
+Dataset,Mean_Accuracy,Std_Accuracy,Mean_AUC,Std_AUC,Mean_F1_weighted,Std_F1_weighted,Mean_Cutpoints,Best_MAX_LEVELS,Generations_Used,Population_Input,MOEAD_Subproblems,Selection_Rule,Notes
+sMRI,0.6419354838709677,0.07426364150465382,0.6846284252514743,0.07444432957531856,0.6405915616819496,0.07337555094174879,5579.4,15,300,200,210,paper,medical run; selection=paper; eps=0.02; L_MIN=1; Lmax=15

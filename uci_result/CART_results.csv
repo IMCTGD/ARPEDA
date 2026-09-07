@@ -1,0 +1,3 @@
+Dataset,Mean_Accuracy,Std_Accuracy,Mean_Cutpoints,Best_MAX_LEVELS
+abalone,0.0,0.0,30.1,15
+glass,0.6493412384716734,0.11452131239793768,54.0,15
